@@ -1,0 +1,1034 @@
+[
+ {
+  "name": "Natural Language Processing",
+  "deptCourseId": "376",
+  "description": "Natural language processing (NLP), a form of artificial intelligence (AI) that gives computers the ability to read, understand and interpret human languages, is one of the most important technologies that have made significant progress recently. NLP has been applied to many areas such as spoken dialogue system, machine translation, question and answering, machine reading, document summarization, and even music generation. Traditional NLP approaches involve rules that are handcrafted by linguists. On the other hand, modern NLP approaches are data-driven, trying to learn a model to minimize a target loss function over labeled or unlabeled training text. The course will cover various NLP techniques such as text classification, sequence classification, parse trees, and sequence-to-sequence generation from statistical or deep learning perspectives. Students will be expected to derive mathematical formulas, and code and tune NLP algorithms on datasets in homework assignments.\nPrerequisite: (1) Machine learning; (2) Probability and Statistics or Theory of Probability\nFulfillment: CS elective.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17921,
+    "code": "001",
+    "instructors": [
+     "Yik-Cheung Tam"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 11:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 11:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Natural Language Processing",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 211",
+    "prerequisites": "Prereq for CSCI-SHU 376 is (1) Machine learning; (2) Probability and Statistics or Theory of Probability"
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Computer Security",
+  "deptCourseId": "361",
+  "description": "This class provides a firm grounding in computer security concepts and basics.  Students learn about threat modeling, principles of secure design, security policies, access control technologies, and similar topics.\nPrerequisite: CSCI-SHU 215 Operating Systems\nFulfillment: CS, CE, EE elective.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 23265,
+    "code": "001",
+    "instructors": [
+     "Guyue Liu"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 13:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 13:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Computer Security",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "Prereq for CSCI-SHU 361 is CSCI-SHU 215 Operating Systems"
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Computer Science Senior Project",
+  "deptCourseId": "420",
+  "description": "The purpose of the Senior Project is for the students to apply the theoretical knowledge they acquired during the Computer Science program to a concrete project in a realistic setting. During the semester, students engage in the entire process of solving a real-world computer science project. It requires students to pursue a long-term, mentored learning experience that culminates in a piece of original work. At the end of the semester, the proposed work comes to fruition in the form of a working software prototype, a written technical report, and an oral presentation at a capstone project symposium.\nPrerequisite: senior standing with CS primary or secondary major.\nFulfillment: CS Required.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17887,
+    "code": "001",
+    "instructors": [
+     "Olivier Marin",
+     "Promethee Spathis"
+    ],
+    "type": "Project (Tandon)",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 09:00:00",
+      "minutesDuration": 150,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "Blended (Online & In-Person)",
+    "name": "Computer Science Senior Project",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 203",
+    "notes": "This class meet in room 712.",
+    "prerequisites": "CS Senior Capstone Conditions is senior standing with CS primary or secondary major."
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Software Engineering",
+  "deptCourseId": "410",
+  "description": "An intense hands-on study of practical techniques and methods of software engineering. Topics include: advanced object-oriented design, design patterns, refactoring, code optimization, universal modeling language, threading, user interface design, enterprise application development and development tools. All topics are integrated and applied during the semester-long group project. The aim of the project is to prepare students for dynamics in a real workplace. Members of the group will meet on a regular basis to discuss the project and to assign individual tasks. Students will be judged primarily on the final project presentations. \nPrerequisites: Intro to Computer Science. \nFulfillment: CS Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17869,
+    "code": "001",
+    "instructors": [
+     "Lihua Xu"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Software Engineering",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "Prereq for CSCI-SHU 410 is CSCI-SHU 101 ICS."
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Functional Programming",
+  "deptCourseId": "311",
+  "description": "Functional Programming is a very powerful and expressive style of programming which has become extremely popular in the recent years, both in academia and in the software industry. There are good reasons for this success: functional programs are modular by design, and interact through expressive and cleanly specified interfaces, using static typing and pattern matching. As a result, functional programs are generally simpler to reason about, to maintain and to execute in parallel than imperative or object-oriented programs. The purpose of the course will be to provide an advanced introduction to Haskell, a purely functional language used today in the software industry for real-world applications. The language comes with a rigorous semantics and everything one could expect of a functional programming language: static type inference, lazy evaluation, type classes, explicit handling of effects using monads, and concurrency primitives and abstractions. We will take the opportunity of this course on Haskell to cover elements of formal language theory, with the implementation in Haskell of a parser, pretty-printer and interpreter for a small imperative language.\nPrereq:  CSCI-SHU 2314 Discrete Math and CSCI-SHU 210 Data Structures\nFulfillment: CS elective.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17877,
+    "code": "001",
+    "instructors": [
+     "Paul Mellies"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 16:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 16:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Functional Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 301",
+    "prerequisites": "prereq for CSCI-SHU 311 is CSCI-SHU 2314 Discrete Math and CSCI-SHU 210 Data Structures"
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Distributed Systems",
+  "deptCourseId": "254",
+  "description": "This course offers a solid grounding in the basic issues and techniques of parallel and distributed computing. The material covers the spectrum from theoretical models of parallel and distributed systems to actual programming assignments.\nPre-requisite: CSCI-SHU 215 Operating Systems\nFulfillment: CS elective.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17884,
+    "code": "001",
+    "instructors": [
+     "Olivier Marin"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 11:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 11:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Distributed Systems",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "PREREQ FOR CSCI-SHU 254 is CSCI-SHU 215 Operating Systems."
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Machine Learning",
+  "deptCourseId": "360",
+  "description": "In this class, students will learn about the theoretical foundations of machine learning  and how to apply these to solve real-world data-driven problems. We will apply machine learning to numerical, textual, and image data. Topics will be drawn from perceptron algorithm, regression,  gradient descent and stochastic gradient descent, support vector machines, kernels for support vector machines, recommendation systems, decision trees and random forests, maximum likelihood, estimation, logistic regression, neural networks and the back propagation algorithm, convolutional neural networks, recurrent neural networks,  Bayesian analysis and naive Bayes, clustering, latent Dirichlet allocation (LDA), sentiment analysis, dimensionality reduction and principle component analysis, reinforcement learning.  \n\nPrerequisite:\nFor students following the 2019-20 or later bulletin, Introduction to Computer Programming, Calculus, (Probability and Statistics OR Theory of Probability).\nFor students following the 2018-19 or earlier and are declared data science/computer science majors,  Statistics for Business & Econ can be regarded as an alternative to Probability and Statistics OR Theory of Probability. Please contact your advisor for more information.\n\nFulfillment: Business Analytics Track; Computer Science Electives; Data Science Major Data Analysis Courses.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17464,
+    "code": "001",
+    "instructors": [
+     "Mathieu Lauriere"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 09:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 09:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Machine Learning",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 203",
+    "prerequisites": "prereq for CSCI-SHU 360 is ICP , Calc, Probability and Statistics OR Theory of Probability. For students following the 18-19 or earlier and are declared DS/CS  majors, please contact your advisor for more information on Statistics for Biz & Econ."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17890,
+    "code": "002",
+    "instructors": [
+     "Mathieu Lauriere"
+    ],
+    "type": "Recitation",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 11:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Machine Learning",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 203",
+    "prerequisites": "prereq for CSCI-SHU 360 is ICP , Calc, Probability and Statistics OR Theory of Probability. For students following the 18-19 or earlier and are declared DS/CS  majors, please contact your advisor for more information on Statistics for Biz & Econ."
+   }
+  ]
+ },
+ {
+  "name": "Embedded Computer Systems",
+  "deptCourseId": "350",
+  "description": "An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints. It is embedded as part of a complete device often including hardware and mechanical parts. Embedded systems control many devices  in common use today. Topics covered include microcontroller architecture, assembler programming, interrupts, peripheral interfacing, embedded system design, higher-level languages on embedded Systems, as well as a brief introduction to real-time operating systems. Practical Lab Exercises complement the lectures. The students will further specialize and consolidate their knowledge through semester-long hands-on projects.  \nPrerequisite: ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201). \nFulfillment: CS elective; CE Required, EE Additional Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17871,
+    "code": "001",
+    "instructors": [
+     "Romain Corcolle"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 14:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-26 14:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Embedded Computer Systems",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "PREERQ FOR CENG-SHU 350 is ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201)."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17872,
+    "code": "002",
+    "instructors": [
+     "Romain Corcolle"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 14:45:00",
+      "minutesDuration": 105,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Embedded Computer Systems",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "PREERQ FOR CENG-SHU 350 is ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201)."
+   }
+  ]
+ },
+ {
+  "name": "Discrete Mathematics",
+  "deptCourseId": "2314",
+  "description": "This course is an introduction to discrete mathematics, emphasizing proof and abstraction, as well as applications to the computational sciences. Topics include sets, relations, and functions, graphs and trees, algorithms, proof techniques, and order of magnitude analysis, Boolean algebra and combinatorial circuits, formal logic and languages, automata, and combinatorics, probability, and statistics. \nCo-requisite OR Pre-requisite:  MATH-SHU 131 or MATH-SHU 201. \nEquivalent to MATH-UA 120. \nFulfillment: MATH Additional Mathematics Electives, CS Required, Data Science Concentration in CS.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17581,
+    "code": "001",
+    "instructors": [
+     "Pingping Ding"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 13:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-27 13:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Discrete Mathematics",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 203",
+    "prerequisites": "Prereq for CSCI-SHU 2314 is grade C or better in either MATH-SHU 131 (Calculus) or MATH-SHU 201 (Honors Calculus)."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17593,
+    "code": "002",
+    "instructors": [
+     "Pingping Ding"
+    ],
+    "type": "Recitation",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 13:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Discrete Mathematics",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 210",
+    "prerequisites": "Prereq for CSCI-SHU 2314 is grade C or better in either MATH-SHU 131 (Calculus) or MATH-SHU 201 (Honors Calculus)."
+   }
+  ]
+ },
+ {
+  "name": "Computer Science Independent Study",
+  "deptCourseId": "997",
+  "description": "Prerequisite: permission of the department. Does not satisfy the major elective requirement. 2-4 credits Students majoring in computer science are permitted to work on an individual basis under the supervision of a full-time faculty member in the department if they have maintained an overall GPA of 3.0 and a GPA of 3.5 in computer science and have a study proposal that is approved by a computer science professor. Students are expected to spend about two to three hours a week per credit (a 4-credit IS would involve about ten to twelve hours a week) on their project.\nFulfillment: Computer Science Major Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17671,
+    "code": "001",
+    "instructors": [
+     "Staff"
+    ],
+    "type": "Independent Study",
+    "status": "Open",
+    "meetings": null,
+    "instructionMode": "In-Person",
+    "name": "Computer Science Independent Study",
+    "campus": "Shanghai",
+    "minUnits": 2.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "TBA"
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Data Structures",
+  "deptCourseId": "210",
+  "description": "Data structures are fundamental programming constructs  which organize information in computer memory to solve challenging real-world problems. Data structures such as stacks, queues, linked lists, and binary trees, therefore constitute building blocks that can be reused, extended, and combined in order to make powerful programs. This course teaches how to implement them in a high-level language, how to analyze their effect on algorithm efficiency, and how to modify them to write computer programs that solve complex problems in a most efficient way. Programming assignments. \nPrerequisite: ICS or A- in ICP.  \nEquivalency: This course counts for CSCI-UA 102 Data Structures (NY).  \nFulfillment: CS Required, Data Science Required, CE Required.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17642,
+    "code": "001",
+    "instructors": [
+     "Yik-Cheung Tam"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 203",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   },
+   {
+    "registrationNumber": 17643,
+    "code": "002",
+    "instructors": [
+     "Yik-Cheung Tam"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 11:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 204",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17644,
+    "code": "003",
+    "instructors": [
+     "Yisong Wang"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-27 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 307",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   },
+   {
+    "registrationNumber": 17645,
+    "code": "004",
+    "instructors": [
+     "Yisong Wang"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-26 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 307",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   },
+   {
+    "registrationNumber": 17888,
+    "code": "005",
+    "instructors": [
+     "Yisong Wang"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-26 11:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 0,
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 523",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   },
+   {
+    "registrationNumber": 17889,
+    "code": "006",
+    "instructors": [
+     "Yisong Wang"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 11:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Data Structures",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 522",
+    "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
+   }
+  ]
+ },
+ {
+  "name": "Introduction to Computer Science",
+  "deptCourseId": "101",
+  "description": "This course has three goals. First, the mastering of a modern object-oriented programming language, enough to allow students to tackle real-world problems of important significance. Second, gaining an appreciation of computational thinking, a process that provides the foundations for solving real-world problems. Finally, providing an overview of the very diverse and exciting field of computer science - a field which, arguably more than any other, impacts how we work, live, and play today.\nPrerequisite: Introduction to Computer Programming or placement exam. \nEquivalency: This course counts for CSCI-UA 101.\nFulfillment: Core Curriculum Requirement Algorithmic Thinking; Computer Science Major Required Courses; Computer Systems Engineering Major Required Courses; Data Science Major Foundational Courses; Electrical and Systems Engineering Major Required Major Courses.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17449,
+    "code": "001",
+    "instructors": [
+     "Xianbin Gu"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 08:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Science",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 210",
+    "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
+   },
+   {
+    "registrationNumber": 17596,
+    "code": "004",
+    "instructors": [
+     "Xianbin Gu"
+    ],
+    "type": "Lecture",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-26 09:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 3,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Science",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 304",
+    "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17509,
+    "code": "002",
+    "instructors": [
+     "Wen Yin"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-27 08:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 3,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Science",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 211",
+    "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
+   },
+   {
+    "registrationNumber": 17572,
+    "code": "003",
+    "instructors": [
+     "Wen Yin"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 13:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Science",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 304",
+    "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
+   },
+   {
+    "registrationNumber": 17751,
+    "code": "005",
+    "instructors": [
+     "Wen Yin"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 09:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 3,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Science",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 610",
+    "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
+   }
+  ]
+ },
+ {
+  "name": "Algorithms",
+  "deptCourseId": "220",
+  "description": "Introduction to the study of algorithms. Presents two main themes: designing appropriate data structures and analyzing the efficiency of the algorithms that use them. Algorithms studied include sorting, searching, graph algorithms, and maintaining dynamic data structures. Homework assignments, not necessarily involving programming.  \nPrerequisites: Data Structures and (Discrete Math or Honors Math major) and Calculus. \nFulfillment: CS Required, Data Science Data Analysis/Concentration in Computer Science/AI.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17580,
+    "code": "001",
+    "instructors": [
+     "Jie Xue"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 14:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-26 14:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Algorithms",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 610",
+    "prerequisites": "prereq for CSCI-SHU 220 is Data Structures and (Discrete Math or Honors Math major) and Calculus."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 17592,
+    "code": "002",
+    "instructors": [
+     "Jie Xue"
+    ],
+    "type": "Recitation",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-28 14:45:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Algorithms",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 209",
+    "prerequisites": "prereq for CSCI-SHU 220 is Data Structures and (Discrete Math or Honors Math major) and Calculus."
+   }
+  ]
+ },
+ {
+  "name": "Databases",
+  "deptCourseId": "213",
+  "description": "The course covers modeling an application and logical database design, the relational model and relational data definition and data manipulation languages, design of relational databases and normalization theory, physical database design, query processing and optimization, transaction processing focusing on concurrency and recovery. The labs emphasize experiential learning of database systems and applications and an insight into various database management systems and query languages.\nPrerequisite: CSCI-SHU 210 Data Structures.\nFulfillment: Computer Science Major Electives; Data Science Major Required Data Management Courses.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17586,
+    "code": "001",
+    "instructors": [
+     "Lihua Xu"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 16:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     },
+     {
+      "beginDate": "2022-01-26 16:15:00",
+      "minutesDuration": 75,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Databases",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 304",
+    "prerequisites": "Prereq for CSCI-SHU 213 is CSCI-SHU 210 Data Structures."
+   }
+  ],
+  "recitations": []
+ },
+ {
+  "name": "Introduction to Computer Programming",
+  "deptCourseId": "11",
+  "description": "An introduction to the fundamentals of computer programming. Students design, write, and debug computer programs. No prior knowledge of programming is assumed. Students will learn programming using Python, a general purpose, cross-platform programming language with a clear, readable syntax. Most class periods will be part lecture, part lab as you explore ideas and put them into practice. This course is suitable for students not intending in majoring in computer science as well as for students intending to major in computer science but having no programming experience. Students with previous programming experience should instead take Introduction to Computer Science.  \nPrerequisite: Either placed into Calculus or at least a C in Pre-Calculus\nFulfillment: Core Curriculum Requirement Algorithmic Thinking; EE Required Major Courses.\nNote: Students who have taken ICS in NY, Abu Dhabi, and Shanghai cannot take ICP.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 17503,
+    "code": "001",
+    "instructors": [
+     "Daniel Jean Jacques Simon"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-24 08:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 102",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   },
+   {
+    "registrationNumber": 17504,
+    "code": "002",
+    "instructors": [
+     "Daniel Jean Jacques Simon"
+    ],
+    "type": "Lecture",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-25 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 6,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 101",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 23632,
+    "code": "003",
+    "instructors": [
+     "Daniel Jean Jacques Simon"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-26 08:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 0,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 102",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   },
+   {
+    "registrationNumber": 23633,
+    "code": "004",
+    "instructors": [
+     "Promethee Spathis"
+    ],
+    "type": "Lab",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2022-01-26 08:45:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 604",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   },
+   {
+    "registrationNumber": 23634,
+    "code": "005",
+    "instructors": [
+     "Daniel Jean Jacques Simon"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-27 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 4,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 303",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   },
+   {
+    "registrationNumber": 23767,
+    "code": "006",
+    "instructors": [
+     "Promethee Spathis"
+    ],
+    "type": "Lab",
+    "status": "WaitList",
+    "meetings": [
+     {
+      "beginDate": "2022-01-27 15:15:00",
+      "minutesDuration": 110,
+      "endDate": "2022-05-13 23:59:00"
+     }
+    ],
+    "waitlistTotal": 2,
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Programming",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 604",
+    "prerequisites": "C in Precalculus or pass Calculus placement test"
+   }
+  ]
+ }
+]

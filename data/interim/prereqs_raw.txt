@@ -1,0 +1,15 @@
+CSCI-SHU-376-Natural Language Processing Prereq for CSCI-SHU 376 is (1) Machine learning; (2) Probability and Statistics or Theory of Probability
+CSCI-SHU-361-Computer Security Prereq for CSCI-SHU 361 is CSCI-SHU 215 Operating Systems
+CSCI-SHU-420-Computer Science Senior Project CS Senior Capstone Conditions is senior standing with CS primary or secondary major.
+CSCI-SHU-410-Software Engineering Prereq for CSCI-SHU 410 is CSCI-SHU 101 ICS.
+CSCI-SHU-311-Functional Programming prereq for CSCI-SHU 311 is CSCI-SHU 2314 Discrete Math and CSCI-SHU 210 Data Structures
+CSCI-SHU-254-Distributed Systems PREREQ FOR CSCI-SHU 254 is CSCI-SHU 215 Operating Systems.
+CSCI-SHU-360-Machine Learning prereq for CSCI-SHU 360 is ICP , Calc, Probability and Statistics OR Theory of Probability. For students following the 18-19 or earlier and are declared DS/CS  majors, please contact your advisor for more information on Statistics for Biz & Econ.
+CSCI-SHU-350-Embedded Computer Systems PREERQ FOR CENG-SHU 350 is ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201).
+CSCI-SHU-2314-Discrete Mathematics Prereq for CSCI-SHU 2314 is grade C or better in either MATH-SHU 131 (Calculus) or MATH-SHU 201 (Honors Calculus).
+Computer Science Independent Study
+CSCI-SHU-210-Data Structures Prereq for CSCI-SHU 210 is ICS or A- in ICP.
+CSCI-SHU-101-Introduction to Computer Science prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam
+CSCI-SHU-220-Algorithms prereq for CSCI-SHU 220 is Data Structures and (Discrete Math or Honors Math major) and Calculus.
+CSCI-SHU-213-Databases Prereq for CSCI-SHU 213 is CSCI-SHU 210 Data Structures.
+CSCI-SHU-11-Introduction to Computer Programming C in Precalculus or pass Calculus placement test

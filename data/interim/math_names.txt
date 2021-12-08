@@ -1,0 +1,38 @@
+MATH-SHU-143-Foundations of Mathematical Methods
+MATH-SHU-142-Honors Linear Algebra II
+MATH-SHU-160-Networks and Dynamics
+MATH-SHU-151-Multivariable Calculus
+MATH-SHU-10-Quantitative Reasoning: Great Ideas in Mathematics
+MATH-SHU-9-Precalculus
+MATH-SHU-140-Linear Algebra
+MATH-SHU-131-Calculus
+MATH-SHU-282-Functions of a Complex Variable
+MATH-SHU-263-Partial Differential Equations
+MATH-SHU-339-Real Variables
+MATH-SHU-328-Honors Analysis I
+MATH-SHU-238-Honors Theory of Probability
+MATH-SHU-235-Probability and Statistics
+MATH-SHU-262-Ordinary Differential Equations
+MATH-SHU-252-Numerical Analysis
+MATH-SHU-377-Differential Geometry
+MATH-SHU-348-Honors Algebra I
+MATH-SHU-997-Independent Study: Mathematics
+
+MATH-SHU-265-Linear Algebra and Differential Equation
+MATH-SHU-251-Introduction to Math Modeling
+MATH-SHU-329-Honors Analysis II
+MATH-SHU-328-Honors Analysis I
+MATH-SHU-201-Honors Calculus
+MATH-SHU-151-Multivariable Calculus
+MATH-SHU-235-Probability and Statistics
+MATH-SHU-234-Mathematical Statistics
+MATH-SHU-997-Independent Study: Mathematics
+MATH-SHU-348-Honors Algebra I
+MATH-SHU-345-Introduction to Stochastic Processes
+MATH-SHU-362-Honors Ordinary Differential Equations
+MATH-SHU-350-Probability Limit Theorems
+MATH-SHU-131-Calculus
+MATH-SHU-10-Quantitative Reasoning: Great Ideas in Mathematics
+MATH-SHU-141-Honors Linear Algebra I
+MATH-SHU-140-Linear Algebra
+MATH-SHU-9-Precalculus
