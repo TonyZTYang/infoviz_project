@@ -7,9 +7,13 @@ CSCI-SHU-254-Distributed Systems PREREQ FOR CSCI-SHU 254 is CSCI-SHU 215 Operati
 CSCI-SHU-360-Machine Learning prereq for CSCI-SHU 360 is ICP , Calc, Probability and Statistics OR Theory of Probability. For students following the 18-19 or earlier and are declared DS/CS  majors, please contact your advisor for more information on Statistics for Biz & Econ.
 CSCI-SHU-350-Embedded Computer Systems PREERQ FOR CENG-SHU 350 is ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201).
 CSCI-SHU-2314-Discrete Mathematics Prereq for CSCI-SHU 2314 is grade C or better in either MATH-SHU 131 (Calculus) or MATH-SHU 201 (Honors Calculus).
-Computer Science Independent Study
 CSCI-SHU-210-Data Structures Prereq for CSCI-SHU 210 is ICS or A- in ICP.
 CSCI-SHU-101-Introduction to Computer Science prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam
 CSCI-SHU-220-Algorithms prereq for CSCI-SHU 220 is Data Structures and (Discrete Math or Honors Math major) and Calculus.
 CSCI-SHU-213-Databases Prereq for CSCI-SHU 213 is CSCI-SHU 210 Data Structures.
 CSCI-SHU-11-Introduction to Computer Programming C in Precalculus or pass Calculus placement test
+CSCI-SHU-378-Introduction to Cryptography Registration for Fall 2021: Currently open to SH students, study away students and Go local students.  Prereq for CSCI-SHU 378 is Algorithms, theory of probability, or permission of the instructor.
+CSCI-SHU-308-Computer Networking Registration for Fall 2021: Currently open to SH students, study away students and Go local students.  PREREQ FOR CSCI-SHU 308 is CSCI-SHU 101 Intro to Computer Science.
+CSCI-SHU-215-Operating Systems Registration for Fall 2021: Currently open to SH students, study away students and Go local students.  Prereq for CSCI-SHU 215 is CSCI-SHU 210 Data Structures or CENG-SHU 202 Computer Architecture.
+CSCI-SHU-375-Reinforcement Learning Registration for Fall 2021: Currently open to SH students, study away students and Go local students.  prereq for CSCI-SHU 375 is Machine Learning AND (Probability and Statistics OR Theory of Probability).
+CSCI-SHU-188-Introduction to Computer Music Registration for Fall 2021: Currently open to SH students, study away students and Go local students.  Prereq for CSCI-SHU 188 is CSCI-SHU 11 ICP or CSCI-SHU 101 ICS.

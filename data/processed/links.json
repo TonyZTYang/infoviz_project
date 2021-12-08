@@ -1,4 +1,21 @@
 {
     "CSCI-SHU-376-Natural Language Processing": ["CSCI-SHU-360-Machine Learning", "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"],
-    "CSCI-SHU-361-Computer Security": [""]
+    "CSCI-SHU-361-Computer Security": ["CSCI-SHU-215-Operating Systems"],
+    "CSCI-SHU-420-Computer Science Senior Project": ["MAJ-X-X-Computer Science", "STAND-X-X-Senior"],
+    "CSCI-SHU-410-Software Engineering": ["CSCI-SHU-101-Introduction to Computer Science"],
+    "CSCI-SHU-311-Functional Programming": ["CSCI-SHU-210-Data Structures", "CSCI-SHU-2314-Discrete Mathematics"],
+    "CSCI-SHU-254-Distributed Systems": ["CSCI-SHU-215-Operating Systems"],
+    "CSCI-SHU-360-Machine Learning": ["CSCI-SHU-11-Introduction to Computer Programming", "MATH-SHU-131-Calculus", "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"],
+    "CSCI-SHU-350-Embedded Computer Systems": ["CSCI-SHU-11-Introduction to Computer Programming,CSCI-SHU-101-Introduction to Computer Science","CENG-SHU-201-Digital Logic,CENG-SHU-202-Computer Architecture"],
+    "CSCI-SHU-2314-Discrete Mathematics": ["MATH-SHU-131-Calculus,MATH-SHU-201-Honors Calculus"],
+    "CSCI-SHU-210-Data Structures": ["CSCI-SHU-101-Introduction to Computer Science"],
+    "CSCI-SHU-101-Introduction to Computer Science": ["CSCI-SHU-11-Introduction to Computer Programming"],
+    "CSCI-SHU-220-Algorithms": ["CSCI-SHU-210-Data Structures", "CSCI-SHU-2314-Discrete Mathematics", "MATH-SHU-201-Honors Calculus"],
+    "CSCI-SHU-213-Databases": ["CSCI-SHU-210-Data Structures"],
+    "CSCI-SHU-11-Introduction to Computer Programming": ["MATH-SHU-9-Precalculus"],
+    "CSCI-SHU-378-Introduction to Cryptography": ["CSCI-SHU-220-Algorithms", "MATH-SHU-238-Honors Theory of Probability"],
+    "CSCI-SHU-308-Computer Networking": ["CSCI-SHU-101-Introduction to Computer Science"],
+    "CSCI-SHU-215-Operating Systems": ["CSCI-SHU-210-Data Structures,CENG-SHU-202-Computer Architecture"],
+    "CSCI-SHU-375-Reinforcement Learning": ["CSCI-SHU-360-Machine Learning", "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"],
+    "CSCI-SHU-188-Introduction to Computer Music": ["CSCI-SHU-11-Introduction to Computer Programming,CSCI-SHU-101-Introduction to Computer Science"]
 }

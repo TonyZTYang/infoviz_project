@@ -38,7 +38,11 @@
     "prerequisites": "Prereq for CSCI-SHU 376 is (1) Machine learning; (2) Probability and Statistics or Theory of Probability"
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-360-Machine Learning",
+   "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"
+  ]
  },
  {
   "name": "Computer Security",
@@ -79,7 +83,10 @@
     "prerequisites": "Prereq for CSCI-SHU 361 is CSCI-SHU 215 Operating Systems"
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-215-Operating Systems"
+  ]
  },
  {
   "name": "Computer Science Senior Project",
@@ -117,7 +124,11 @@
     "prerequisites": "CS Senior Capstone Conditions is senior standing with CS primary or secondary major."
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "MAJ-X-X-Computer Science",
+   "STAND-X-X-Senior"
+  ]
  },
  {
   "name": "Software Engineering",
@@ -158,7 +169,10 @@
     "prerequisites": "Prereq for CSCI-SHU 410 is CSCI-SHU 101 ICS."
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-101-Introduction to Computer Science"
+  ]
  },
  {
   "name": "Functional Programming",
@@ -199,7 +213,11 @@
     "prerequisites": "prereq for CSCI-SHU 311 is CSCI-SHU 2314 Discrete Math and CSCI-SHU 210 Data Structures"
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-210-Data Structures",
+   "CSCI-SHU-2314-Discrete Mathematics"
+  ]
  },
  {
   "name": "Distributed Systems",
@@ -240,7 +258,10 @@
     "prerequisites": "PREREQ FOR CSCI-SHU 254 is CSCI-SHU 215 Operating Systems."
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-215-Operating Systems"
+  ]
  },
  {
   "name": "Machine Learning",
@@ -306,6 +327,11 @@
     "location": "SH 1555 Century Ave, Rm 203",
     "prerequisites": "prereq for CSCI-SHU 360 is ICP , Calc, Probability and Statistics OR Theory of Probability. For students following the 18-19 or earlier and are declared DS/CS  majors, please contact your advisor for more information on Statistics for Biz & Econ."
    }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-11-Introduction to Computer Programming",
+   "MATH-SHU-131-Calculus",
+   "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"
   ]
  },
  {
@@ -372,6 +398,10 @@
     "location": "SH 1555 Century Ave, Rm 712",
     "prerequisites": "PREERQ FOR CENG-SHU 350 is ( CSCI-SHU 11 or CSCI-SHU 101 ) AND (CENG-SHU 202 or CENG-SHU 201)."
    }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-11-Introduction to Computer Programming,CSCI-SHU-101-Introduction to Computer Science",
+   "CENG-SHU-201-Digital Logic,CENG-SHU-202-Computer Architecture"
   ]
  },
  {
@@ -438,6 +468,9 @@
     "location": "SH 1555 Century Ave, Rm 210",
     "prerequisites": "Prereq for CSCI-SHU 2314 is grade C or better in either MATH-SHU 131 (Calculus) or MATH-SHU 201 (Honors Calculus)."
    }
+  ],
+  "prerequisites": [
+   "MATH-SHU-131-Calculus,MATH-SHU-201-Honors Calculus"
   ]
  },
  {
@@ -467,7 +500,8 @@
     "location": "TBA"
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": []
  },
  {
   "name": "Data Structures",
@@ -625,6 +659,9 @@
     "location": "SH 1555 Century Ave, Rm 522",
     "prerequisites": "Prereq for CSCI-SHU 210 is ICS or A- in ICP."
    }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-101-Introduction to Computer Science"
   ]
  },
  {
@@ -761,6 +798,9 @@
     "location": "SH 1555 Century Ave, Rm 610",
     "prerequisites": "prereq for CSCI-SHU 101 is CSCI-SHU 11 or placement exam"
    }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-11-Introduction to Computer Programming"
   ]
  },
  {
@@ -827,6 +867,11 @@
     "location": "SH 1555 Century Ave, Rm 209",
     "prerequisites": "prereq for CSCI-SHU 220 is Data Structures and (Discrete Math or Honors Math major) and Calculus."
    }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-210-Data Structures",
+   "CSCI-SHU-2314-Discrete Mathematics",
+   "MATH-SHU-201-Honors Calculus"
   ]
  },
  {
@@ -868,7 +913,10 @@
     "prerequisites": "Prereq for CSCI-SHU 213 is CSCI-SHU 210 Data Structures."
    }
   ],
-  "recitations": []
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-210-Data Structures"
+  ]
  },
  {
   "name": "Introduction to Computer Programming",
@@ -1029,6 +1077,256 @@
     "location": "SH 1555 Century Ave, Rm 604",
     "prerequisites": "C in Precalculus or pass Calculus placement test"
    }
+  ],
+  "prerequisites": [
+   "MATH-SHU-9-Precalculus"
+  ]
+ },
+ {
+  "name": "Introduction to Cryptography",
+  "deptCourseId": "378",
+  "description": "The study of modern cryptography investigates mathematical techniques for securing information, systems and distributed computations against adversarial attacks. We introduce fundamental concepts of this study.  Emphasis will be placed on rigorous proofs of security based on precise definitions and assumptions.  Topics include: one-way functions, encryption, signatures, pseudorandom number generators and zero-knowledge proofs. \n\nPrerequisite: Algorithms, theory of probability, or permission of the instructor.\nFulfillment: Mathematics Additional Electives; Honors Mathematics Electives; CS Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 18389,
+    "code": "001",
+    "instructors": [
+     "Siyao Guo"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-08-30 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     },
+     {
+      "beginDate": "2021-08-31 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Cryptography",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 212",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nPrereq for CSCI-SHU 378 is Algorithms, theory of probability, or permission of the instructor."
+   }
+  ],
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-220-Algorithms",
+   "MATH-SHU-238-Honors Theory of Probability"
+  ]
+ },
+ {
+  "name": "Computer Networking",
+  "deptCourseId": "308",
+  "description": "This course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and link layer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs. Prerequisite: CSCI-SHU 101 or placement test. \nFulfillment: CS Electives, CE Electives, EE Additional Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 25498,
+    "code": "001",
+    "instructors": [
+     "Guyue Liu"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-09-01 11:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     },
+     {
+      "beginDate": "2021-09-03 11:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Computer Networking",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 527",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nPREREQ FOR CSCI-SHU 308 is CSCI-SHU 101 Intro to Computer Science."
+   }
+  ],
+  "recitations": [
+   {
+    "registrationNumber": 25499,
+    "code": "002",
+    "instructors": [
+     "Guyue Liu"
+    ],
+    "type": "Recitation",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-09-03 13:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Computer Networking",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 0.0,
+    "grading": "",
+    "location": "SH 1555 Century Ave, Rm 527",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nPREREQ FOR CSCI-SHU 308 is CSCI-SHU 101 Intro to Computer Science."
+   }
+  ],
+  "prerequisites": [
+   "CSCI-SHU-101-Introduction to Computer Science"
+  ]
+ },
+ {
+  "name": "Operating Systems",
+  "deptCourseId": "215",
+  "description": "Covers the principles and design of operating systems. Topics include process scheduling and synchronization, deadlocks, memory management (including virtual memory), input-output, and file systems. Programming assignments. \nPrerequisite: CSCI-SHU 210 Data Structures or CENG-SHU 202 Computer Architecture.\nFulfillment: Computer Science Major Required Courses; Computer Systems Engineering Major Elective; Data Science Major Courses for Concentration in Computer Science.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 18135,
+    "code": "001",
+    "instructors": [
+     "Olivier Marin"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-08-30 13:15:00",
+      "minutesDuration": 110,
+      "endDate": "2021-12-10 23:59:00"
+     },
+     {
+      "beginDate": "2021-09-01 13:15:00",
+      "minutesDuration": 110,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Operating Systems",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 611",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nPrereq for CSCI-SHU 215 is CSCI-SHU 210 Data Structures or CENG-SHU 202 Computer Architecture."
+   }
+  ],
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-210-Data Structures,CENG-SHU-202-Computer Architecture"
+  ]
+ },
+ {
+  "name": "Reinforcement Learning",
+  "deptCourseId": "375",
+  "description": "Prerequisite: Machine Learning AND (Probability and Statistics OR Theory of Probability).\nFulfillment: Computer Science Major Electives; Data Science Major Courses for Concentration in Artificial Intelligence.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 18444,
+    "code": "001",
+    "instructors": [
+     "Keith W Ross"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-08-31 09:45:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     },
+     {
+      "beginDate": "2021-09-01 09:45:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Reinforcement Learning",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 313",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nprereq for CSCI-SHU 375 is Machine Learning AND (Probability and Statistics OR Theory of Probability)."
+   }
+  ],
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-360-Machine Learning",
+   "MATH-SHU-235-Probability and Statistics,MATH-SHU-238-Honors Theory of Probability"
+  ]
+ },
+ {
+  "name": "Introduction to Computer Music",
+  "deptCourseId": "188",
+  "description": "Computers are used to process signals, compose music, and perform with humans. Personal computers have replaced studios full of sound recording and processing equipment, completing a revolution that began with recording and electronics. In this course, students will learn the fundamentals of digital audio, basic sound synthesis algorithms, techniques for human-computer music interaction, and machine learning algorithms for media generation.  In a final project, students will demonstrate their mastery of tools and techniques through a publicly performed music composition.\nPrerequisites:ICP OR ICS (best to have some experience in Music, or check with the instructor before enrolling)\nFulfillment: Computer Science Major Electives.",
+  "subjectCode": {
+   "code": "CSCI",
+   "school": "SHU"
+  },
+  "sections": [
+   {
+    "registrationNumber": 18529,
+    "code": "001",
+    "instructors": [
+     "Gus Xia"
+    ],
+    "type": "Lecture",
+    "status": "Open",
+    "meetings": [
+     {
+      "beginDate": "2021-08-30 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     },
+     {
+      "beginDate": "2021-09-01 15:15:00",
+      "minutesDuration": 75,
+      "endDate": "2021-12-10 23:59:00"
+     }
+    ],
+    "instructionMode": "In-Person",
+    "name": "Introduction to Computer Music",
+    "campus": "Shanghai",
+    "minUnits": 0.0,
+    "maxUnits": 4.0,
+    "grading": "Ugrd Shanghai Graded",
+    "location": "SH 1555 Century Ave, Rm 712",
+    "prerequisites": "Registration for Fall 2021: Currently open to SH students, study away students and Go local students.\n\nPrereq for CSCI-SHU 188 is CSCI-SHU 11 ICP or CSCI-SHU 101 ICS."
+   }
+  ],
+  "recitations": [],
+  "prerequisites": [
+   "CSCI-SHU-11-Introduction to Computer Programming,CSCI-SHU-101-Introduction to Computer Science"
   ]
  }
 ]
